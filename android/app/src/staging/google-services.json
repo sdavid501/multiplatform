@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613464750336",
+    "project_id": "multiplatform-staging",
+    "storage_bucket": "multiplatform-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613464750336:android:3d4009908489854a3b5be5",
+        "android_client_info": {
+          "package_name": "com.multiplatform.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQgrg7_K4T0ZZa_UusIG153WbeHzx6tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

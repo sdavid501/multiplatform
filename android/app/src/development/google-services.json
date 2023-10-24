@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1047452210714",
+    "project_id": "multiplatform-dev",
+    "storage_bucket": "multiplatform-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047452210714:android:96a7ff292c00c85c9b63a3",
+        "android_client_info": {
+          "package_name": "com.multiplatform.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047452210714-fqeev3q3q5bjea8i8v8e01ctibi67m74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPWfRvdx1_3qIEJGu1-GmgdBss-DAuy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047452210714-fqeev3q3q5bjea8i8v8e01ctibi67m74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047452210714-7gqqamk1mf18ih6d8krbvc2aejlphkrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multiplatform.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
